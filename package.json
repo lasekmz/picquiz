@@ -1,0 +1,19 @@
+{
+  "name": "picquiz",
+  "version": "1.0.0",
+  "description": "a project to quiz on names and faces",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasekmz/picquiz.git"
+  },
+  "author": "Lasek, Scherer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasekmz/picquiz/issues"
+  },
+  "homepage": "https://github.com/lasekmz/picquiz#readme"
+}
